@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Языки и инструменты
+## Языки и инструменты
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 Статистика GitHub
+## Статистика GitHub
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ### ЛеetCode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jujjybez&theme=radical)]([https://leetcode.com/jujjybez])
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jujjybez&theme=dark)](https://github.com/jujjybez/leetcode-stats)
 
 </div>
 
@@ -82,13 +82,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujjybez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujjybez&layout=compact)](https://github.com/jujjybez/github-readme-stats)
 
 </div>
 
 ---
 
-## 💻 Проекты
+## Проекты
 
 <table>
   <tr>
@@ -125,7 +125,7 @@
       <strong>C++, Python</strong>
     </td>
     <td>
-      <h3>🐧 Linux Config</h3>
+      <h3>Linux Config</h3>
       <p>Конфигурация и multitool</p>
       <ul>
         <li>Bootloader Setup</li>
@@ -138,7 +138,7 @@
 
 ---
 
-## 🎯 Recent Activity
+## Recent Activity
 
 <!-- AniProfile -->
 <p align="center">
@@ -153,7 +153,5 @@
 <div align="center">
 
 ### Спасибо за визит
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jujjybez.jujjybez)](https://github.com/jujjybez)
 
 </div>
