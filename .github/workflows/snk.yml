@@ -2,8 +2,8 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Запуск каждый день в 00:00 UTC
-  workflow_dispatch:     # Ручной запуск из интерфейса GitHub
+    - cron: "0 0 * * *" 
+  workflow_dispatch:     
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -21,7 +21,8 @@ jobs:
           color_scheme: dark
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/
+          retention-days: 7
