@@ -64,7 +64,7 @@
 
 ### Общая статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jujjybez&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jujjybez&theme=radical)
 
 ### Streak
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujjybez&layout=compact)](https://github.com/jujjybez/github-readme-stats)
+![Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jujjybez&theme=radical)
 
 </div>
 
