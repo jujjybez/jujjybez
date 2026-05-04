@@ -140,12 +140,10 @@
 
 ## Recent Activity
 
-<!-- AniProfile -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/jujjybez/jujjybez/main/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
-
-<!-- Generate this with GitHub Actions using Platane/snk -->
 
 
 ---
